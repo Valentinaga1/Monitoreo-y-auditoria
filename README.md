@@ -1,8 +1,5 @@
 # Plan de monitoreo y auditoría · LearnWithMe
 
-**Pre-entrega 7 · AWS Certified Cloud Practitioner**
-Recursos monitoreados: los definidos en las entregas de VPC (Módulo 6) y bases de datos (Módulo 5).
-
 ## 1. Recursos y métricas críticas
 
 | Servicio | Métricas de CloudWatch | Por qué es crítica |
@@ -37,7 +34,7 @@ Para evitar alarmas ruidosas, ninguna usa periodos menores a 5 minutos y la mayo
 
 ## 3. Mock-up del dashboard
 
-![Dashboard de CloudWatch de LearnWithMe](Dashboard_CloudWatch_LearnWithMe.png)
+Imagen añadida en el repo
 
 El dashboard `LearnWithMe-Produccion` se organiza de arriba hacia abajo, de lo más urgente a lo más detallado:
 
